@@ -1,5 +1,5 @@
 # 모란앵무 (Peach-faced Lovebird)
-![모란앵무 프로젝트 배너](https://github.com/사용자이름/저장소이름/raw/main/banner.png)  
+![모란앵무 프로젝트 배너](https://github.com/dpselddywjdw/team-1-again/blob/%EB%B0%95%EC%A7%80%ED%99%98/%EB%B0%B0%EB%84%88.png?raw=true)  
 
 > **모란앵무**에 대한 사육 가이드 문서입니다.
 
